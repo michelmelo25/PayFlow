@@ -1,5 +1,7 @@
 # PayFlow
-O PayFlow é um aplicativo para organizar os seus boletos em um só lugar.
+
+Ja pensou em organizar todos os seus boletos em um so lugar? com o PayFlow você poderá fazer isso.</br>
+O PayFlow é um aplicativo para organizar os seus boletos em um só lugar, com ele você poderá acompanhar os seus boletos que estão prestes a vencer e que foram pagos.
 
 
 ## ScreenShots
